@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: rgb(181, 146, 214);
+}
+  
+section {
+    margin: 20px auto;
+    max-width: 600px;
+    text-align: left;
+}
+  
+table {
+    margin: 0 auto;
+}  
+h1{
+    text-align: center;
+}
+form{text-align: center;}
