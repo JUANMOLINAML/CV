@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: rgb(181, 146, 214);
+    background-color: rgb(88, 153, 14);
 }
   
 section {
@@ -11,8 +11,26 @@ section {
   
 table {
     margin: 0 auto;
-}  
+} 
+
 h1{
     text-align: center;
 }
-form{text-align: center;}
+
+form{
+    text-align: center;
+}
+
+button{
+    border-radius: 10px;
+    
+}
+
+input{
+    border-radius: 0 12px;
+}
+
+textarea{
+    border-radius: 0 20px;
+}
+
